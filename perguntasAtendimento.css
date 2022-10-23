@@ -20,7 +20,6 @@
     background-color: var(--white);
   }
   main{
-    height: 80vh;
     padding:0 2rem 0 2rem;
   }
   .flex {
